@@ -1,0 +1,11 @@
+{
+  "name": "emissions-data-manager",
+  "version": "2.0.0",
+  "description": "Professional flue emissions CSV/Excel data manager",
+  "scripts": {
+    "start": "npx live-server --port=3000 --open=index.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
